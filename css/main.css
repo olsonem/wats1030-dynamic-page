@@ -10,6 +10,10 @@ ul.photo-gallery li {
     float:left;
     text-align: center;
 }
+img.img-circle {
+    height: 150px;
+    width: auto
+}
 hr {
     clear: both;
     margin: 1em 0;
